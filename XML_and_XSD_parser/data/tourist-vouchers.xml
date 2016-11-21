@@ -1,6 +1,6 @@
-<tourist-voucher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xmlns="http://www.example.com/tourist-voucher"
-           xsi:schemaLocation="http://www.example.com/tourist-voucher tourist-vouchers.xsd">
+<tourist-vouchers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns="http://www.example.com/tourist-vouchers"
+           xsi:schemaLocation="http://www.example.com/tourist-vouchers.xsd">
     <hotel Name="Belarus Holyday">
         <country>Belarus</country>
         <days>12</days>
@@ -49,4 +49,4 @@
         <cost>5</cost>
         <distance-from-beach>50000</distance-from-beach>
     </bungalow>
-</tourist-voucher>
+</tourist-vouchers>
