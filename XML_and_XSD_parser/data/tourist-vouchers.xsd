@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schema xmlns="http://www.w3.org/2001/XMLSchema"
-        targetNamespace="http://www.example.com/tourist-voucher"
-        xmlns:tns="http://www.example.com/tourist-voucher"
+        targetNamespace="http://www.example.com/tourist-vouchers"
+        xmlns:tns="http://www.example.com/tourist-vouchers"
         elementFormDefault="qualified">
     <element name="common" type="tns:Common-info" abstract="true"/>
     <element name="hotel" type="tns:Hotel" substitutionGroup="tns:common"/>
